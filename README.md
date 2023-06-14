@@ -1,2 +1,2 @@
-# Pok-dex-V2
+# Pokédex-V2
 minha pokédex v2
